@@ -15,7 +15,6 @@ model:
 
 https://drive.google.com/file/d/1TbbHgeNEN2srWhOI49ah0a8mFRsilJci/view?usp=sharing
 
-https://drive.google.com/file/d/1VyJQmVkSXxUayU2ZNcnFTdISqSEYxZq6/view?usp=sharing
 
 Executing program
 ========================
